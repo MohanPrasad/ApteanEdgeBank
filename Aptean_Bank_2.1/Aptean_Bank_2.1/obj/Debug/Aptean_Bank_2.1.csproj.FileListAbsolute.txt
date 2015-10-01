@@ -1,0 +1,10 @@
+c:\users\gsingh\documents\visual studio 2012\Projects\Aptean_Bank_2.1\Aptean_Bank_2.1\bin\Debug\Aptean_Bank_2.1.exe.config
+c:\users\gsingh\documents\visual studio 2012\Projects\Aptean_Bank_2.1\Aptean_Bank_2.1\bin\Debug\Aptean_Bank_2.1.exe
+c:\users\gsingh\documents\visual studio 2012\Projects\Aptean_Bank_2.1\Aptean_Bank_2.1\bin\Debug\Aptean_Bank_2.1.pdb
+c:\users\gsingh\documents\visual studio 2012\Projects\Aptean_Bank_2.1\Aptean_Bank_2.1\obj\Debug\Aptean_Bank_2.1.csprojResolveAssemblyReference.cache
+c:\users\gsingh\documents\visual studio 2012\Projects\Aptean_Bank_2.1\Aptean_Bank_2.1\obj\Debug\Aptean_Bank_2._1.Form1.resources
+c:\users\gsingh\documents\visual studio 2012\Projects\Aptean_Bank_2.1\Aptean_Bank_2.1\obj\Debug\Aptean_Bank_2._1.Main_Page.resources
+c:\users\gsingh\documents\visual studio 2012\Projects\Aptean_Bank_2.1\Aptean_Bank_2.1\obj\Debug\Aptean_Bank_2._1.Properties.Resources.resources
+c:\users\gsingh\documents\visual studio 2012\Projects\Aptean_Bank_2.1\Aptean_Bank_2.1\obj\Debug\Aptean_Bank_2.1.csproj.GenerateResource.Cache
+c:\users\gsingh\documents\visual studio 2012\Projects\Aptean_Bank_2.1\Aptean_Bank_2.1\obj\Debug\Aptean_Bank_2.1.exe
+c:\users\gsingh\documents\visual studio 2012\Projects\Aptean_Bank_2.1\Aptean_Bank_2.1\obj\Debug\Aptean_Bank_2.1.pdb
