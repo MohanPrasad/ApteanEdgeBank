@@ -1,0 +1,5 @@
+c:\users\gsingh\documents\visual studio 2012\Projects\Aptean_Bank_db\Aptean_Bank_db\bin\Debug\Aptean_Bank_db.dll
+c:\users\gsingh\documents\visual studio 2012\Projects\Aptean_Bank_db\Aptean_Bank_db\bin\Debug\Aptean_Bank_db.pdb
+c:\users\gsingh\documents\visual studio 2012\Projects\Aptean_Bank_db\Aptean_Bank_db\obj\Debug\Aptean_Bank_db.csprojResolveAssemblyReference.cache
+c:\users\gsingh\documents\visual studio 2012\Projects\Aptean_Bank_db\Aptean_Bank_db\obj\Debug\Aptean_Bank_db.dll
+c:\users\gsingh\documents\visual studio 2012\Projects\Aptean_Bank_db\Aptean_Bank_db\obj\Debug\Aptean_Bank_db.pdb

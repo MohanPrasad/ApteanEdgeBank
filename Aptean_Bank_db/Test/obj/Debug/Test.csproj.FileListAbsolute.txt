@@ -1,0 +1,11 @@
+c:\users\gsingh\documents\visual studio 2012\Projects\Aptean_Bank_db\Test\bin\Debug\Test.exe.config
+c:\users\gsingh\documents\visual studio 2012\Projects\Aptean_Bank_db\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+c:\users\gsingh\documents\visual studio 2012\Projects\Aptean_Bank_db\Test\obj\Debug\Test.Form1.resources
+c:\users\gsingh\documents\visual studio 2012\Projects\Aptean_Bank_db\Test\obj\Debug\Test.Properties.Resources.resources
+c:\users\gsingh\documents\visual studio 2012\Projects\Aptean_Bank_db\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+c:\users\gsingh\documents\visual studio 2012\Projects\Aptean_Bank_db\Test\bin\Debug\Test.exe
+c:\users\gsingh\documents\visual studio 2012\Projects\Aptean_Bank_db\Test\bin\Debug\Test.pdb
+c:\users\gsingh\documents\visual studio 2012\Projects\Aptean_Bank_db\Test\obj\Debug\Test.exe
+c:\users\gsingh\documents\visual studio 2012\Projects\Aptean_Bank_db\Test\obj\Debug\Test.pdb
+c:\users\gsingh\documents\visual studio 2012\Projects\Aptean_Bank_db\Test\bin\Debug\Aptean_Bank_db.dll
+c:\users\gsingh\documents\visual studio 2012\Projects\Aptean_Bank_db\Test\bin\Debug\Aptean_Bank_db.pdb
